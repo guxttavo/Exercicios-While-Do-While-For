@@ -11,18 +11,18 @@ public class Ex04 {
 
         double popA = 80.000;
         double popB = 200.000;
-        int cont = 0;
+        int count = 0;
 
         while (popA < popB) {
 
             popA += (popA / 100) * 3;
             popB += (popA / 100) * 1.5;
-            cont++;
+            count++;
         }
 
         System.out.println("População A: " + popA);
         System.out.println("População B: " + popB);
-        System.out.println("Anos: " + cont);
+        System.out.println("Anos: " + count);
 
 
     }
