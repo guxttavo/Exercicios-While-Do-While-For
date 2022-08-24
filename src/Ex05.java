@@ -1,7 +1,7 @@
 /*
 -->Altere o programa da questão 04, permitindo ao usuário informar as populações
-   e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação
- */
+   e as taxas de crescimento iniciais. Valide a entrada e permita repetir a operação.
+*/
 
 import java.util.Scanner;
 
